@@ -10,10 +10,10 @@ Viscosity হলো তরলের একটি বৈশিষ্ট্য, �
 ### ২. **Viscosity বোঝার জন্য ফর্মুলা**  
 Viscosity বোঝানোর জন্য আমরা Newton's Law of Viscosity ব্যবহার করি।  
 
-![image](https://github.com/user-attachments/assets/1acfbccd-6e27-4b72-a01a-7436fb0cc94c)
+> ![image](https://github.com/user-attachments/assets/1acfbccd-6e27-4b72-a01a-7436fb0cc94c)
 
 এখানে:  
-![image](https://github.com/user-attachments/assets/f8627466-ae38-418b-a85a-559f53f9f48c)
+> ![image](https://github.com/user-attachments/assets/f8627466-ae38-418b-a85a-559f53f9f48c)
 
 
 ---
@@ -30,10 +30,10 @@ Drag হলো একটি বল, যা কোনো বস্তু যখ�
 ### ৪. **Drag-এর ফর্মুলা**  
 Drag বোঝানোর জন্য আমরা Drag Force-এর ফর্মুলা ব্যবহার করি:  
 
-![image](https://github.com/user-attachments/assets/26d3e271-5363-48af-9e69-7d1fa2f1d9af)
+> ![image](https://github.com/user-attachments/assets/26d3e271-5363-48af-9e69-7d1fa2f1d9af)
 
 এখানে:  
-![image](https://github.com/user-attachments/assets/8945cf50-ff0c-4ca3-8c39-61f03d6c1083)
+> ![image](https://github.com/user-attachments/assets/8945cf50-ff0c-4ca3-8c39-61f03d6c1083)
 
 
 ---
@@ -49,10 +49,10 @@ Drag বোঝানোর জন্য আমরা Drag Force-এর ফর্
 ### ৬. **Stokes’ Law**  
 Stokes’ Law বস্তুর উপরে প্রয়োগ হওয়া Drag বলের জন্য ব্যবহার করা হয়।  
 
-![image](https://github.com/user-attachments/assets/af98cccc-81bc-44e4-9d72-16cc5fa3241a)
+> ![image](https://github.com/user-attachments/assets/af98cccc-81bc-44e4-9d72-16cc5fa3241a)
  
 এখানে:  
-![image](https://github.com/user-attachments/assets/ebe63cc1-c4c4-47cb-ae37-2e02c3aa957e)
+> ![image](https://github.com/user-attachments/assets/ebe63cc1-c4c4-47cb-ae37-2e02c3aa957e)
  
 
 #### উদাহরণ:  
