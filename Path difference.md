@@ -1,23 +1,19 @@
 **Path difference** refers to the difference in the distance traveled by two waves from their respective sources to a common point. It plays a crucial role in interference and diffraction phenomena.  
 
 ### **Formula:**  
-\[
-\Delta x = d_1 - d_2
-\]  
+![image](https://github.com/user-attachments/assets/a316f025-c998-4f39-bbdd-21040ffc7937)
+ 
 where:  
-- \( \Delta x \) = path difference  
-- \( d_1 \) = distance traveled by the first wave  
-- \( d_2 \) = distance traveled by the second wave  
+![image](https://github.com/user-attachments/assets/4b317a36-8669-48d8-81ff-0ce1fb70b42e)
+
 
 ### **Relation to Interference:**  
 - **Constructive Interference:** Occurs when the path difference is an integer multiple of the wavelength:  
-  \[
-  \Delta x = n\lambda, \quad n = 0, 1, 2, \dots
-  \]  
+![image](https://github.com/user-attachments/assets/ca3244d0-8688-4508-bae7-f10b495edb05)
+ 
 - **Destructive Interference:** Occurs when the path difference is an odd multiple of half the wavelength:  
-  \[
-  \Delta x = (2n+1) \frac{\lambda}{2}, \quad n = 0, 1, 2, \dots
-  \]  
+![image](https://github.com/user-attachments/assets/8530ea97-d596-482b-b5e4-34d419010aba)
+
 
 ### **Examples:**  
 1. **Young's Double-Slit Experiment:** The interference fringes depend on the path difference between the two waves arriving at a point.  
